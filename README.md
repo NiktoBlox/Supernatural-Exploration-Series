@@ -4,9 +4,9 @@
 超自然探險系列是一種類似密室逃脫線上遊戲,可畫面互動、解謎、線索等,但是主要是恐嚇,畢是這個遊戲就是現實中的靈異探險一樣玩法
 
 ## :compass:選擇探險地點：
-[![15](https://github.com/user-attachments/assets/7607c633-5f5d-4b19-acdb-e0b738901bc8)](https://github.com/NiktoBlox/Episode-1-Supernatural-Palace)
-[![14](https://github.com/user-attachments/assets/62e2f2ff-6677-4851-a603-632d7693ba4d)](https://github.com/NiktoBlox/Episode-2-Abandoned-Hospital)
-[![440x269](https://github.com/user-attachments/assets/17b33e8e-070f-4d6e-8d00-eb94495faab1)](https://github.com/NiktoBlox/SupernaturalExploration-Room)
+[![1](https://github.com/user-attachments/assets/7607c633-5f5d-4b19-acdb-e0b738901bc8)](https://github.com/NiktoBlox/Episode-1-Supernatural-Palace)
+[![12](https://github.com/user-attachments/assets/17b33e8e-070f-4d6e-8d00-eb94495faab1)](https://github.com/NiktoBlox/Episode-2-Abandoned-Hospital)
+[![3](https://github.com/user-attachments/assets/9f14d2b1-bd75-473e-8057-e87a8d01cdd7)](https://github.com/NiktoBlox/SupernaturalExploration-Room)
 
 ## :open_book:探險百科Wiki
 [《第一集 超自然之殿》](https://github.com/NiktoBlox/Episode-1-Supernatural-Palace/wiki)
