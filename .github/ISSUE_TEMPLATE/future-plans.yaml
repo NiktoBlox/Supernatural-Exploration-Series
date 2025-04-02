@@ -1,7 +1,7 @@
 name: ⚡未來計劃
 description: 未來你想要建議或是想要什麼東西來加入《超自然探險》系列
 title: "[未來計劃]: "
-labels: ["future-plans"]
+labels: ["未來計劃"]
 assignees: []
 body:
   - type: markdown
