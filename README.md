@@ -18,5 +18,9 @@
 ## :comet:贊助
 即將推出！
 
+## :memo:表單回報：[》請前往《](https://github.com/NiktoBlox/Supernatural-Exploration-Series/issues)
+
+支援類型：Bug回報、問題回報、未來計劃、遊戲心得及評論等
+
 ## :star:	社群
 [NiktoBlox官方社群](https://linktr.ee/niktoblox)
