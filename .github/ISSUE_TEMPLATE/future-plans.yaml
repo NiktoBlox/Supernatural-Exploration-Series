@@ -4,7 +4,7 @@ title: "[未來計劃]: "
 labels: ["future-plans"]
 assignees: []
 body:
-- type: markdown
+  - type: markdown
     attributes:
       value: "### 樓上輸入您要的未來計劃的主題,範例 [未來計劃]: 新增滑動功能 "
       
