@@ -1,9 +1,13 @@
 name: 未來計劃
-description: 未來你想要遊戲建議或是想要什麼東西來加入《超自然探險》系列
+description: 未來你想要建議或是想要什麼東西來加入《超自然探險》系列
 title: "[未來計劃]: "
 labels: ["future-plans"]
 assignees: []
 body:
+- type: markdown
+    attributes:
+      value: "### 樓上輸入您要的未來計劃的主題,範例 [未來計劃]: 新增滑動功能 "
+      
   - type: dropdown
     id: location
     attributes:
@@ -20,7 +24,7 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: 詳細說明
+      label: 詳細說明(支持圖片拖曳到這裡)
       placeholder: 請詳細描述您的建議或想法
     validations:
       required: true
