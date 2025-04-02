@@ -1,0 +1,26 @@
+name: 未來計劃
+description: 未來你想要遊戲建議或是想要什麼東西來加入《超自然探險》系列
+title: "[未來計劃]: "
+labels: ["future-plans"]
+assignees: []
+body:
+  - type: dropdown
+    id: location
+    attributes:
+      label: 選擇探險地點
+      description: 請選擇相關的遊戲地點
+      options:
+        - 通用
+        - 第一集-超自然之殿
+        - 第二集-廢棄的醫院 試玩版
+        - ROOM
+    validations:
+      required: true
+      
+  - type: textarea
+    id: description
+    attributes:
+      label: 詳細說明
+      placeholder: 請詳細描述您的建議或想法
+    validations:
+      required: true
