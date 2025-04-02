@@ -1,0 +1,54 @@
+name: 🐞Bug 問題
+description: 如果遇到錯誤或故障,在此提交報告
+title: "[Bug]: "
+labels: ["bug"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: "### 樓上輸入您要的Bug主題或故障,範例 [Bug]: 動畫被隨機移動 "
+    
+  - type: dropdown
+    id: location
+    attributes:
+      label: 選擇探險地點
+      description: 請選擇您遇到問題的遊戲地點
+      options:
+        - 第一集-超自然之殿
+        - 第二集-廢棄的醫院 試玩版
+        - ROOM
+    validations:
+      required: true
+      
+  - type: input
+    id: version
+    attributes:
+      label: 遊戲版本(可略)
+      placeholder: 例如：v1.2
+    validations:
+      required: false
+      
+  - type: textarea
+    id: description
+    attributes:
+      label: 詳細說明(也可以在此放圖片)
+      placeholder: 請描述您遇到的Bug問題，包括動畫故障、轉場故障、互動...等
+    validations:
+      required: true
+      
+  - type: markdown
+    attributes:
+      value: "## 上傳圖片(可略)"
+      
+  - type: markdown
+    attributes:
+      value: "您可以將圖片直接拖放到下方文本框中來上傳"
+      
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: 上傳圖片
+      description: 如果適用，請添加截圖以幫助解釋您的問題
+      placeholder: 將圖片拖放到此處...
+    validations:
+      required: false
