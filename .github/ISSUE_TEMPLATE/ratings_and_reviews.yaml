@@ -7,6 +7,18 @@ body:
   - type: markdown
     attributes:
       value: "### 樓上輸入您要評分和評論的主題,範例 [評價或評論]: 好玩而且很好奇的體驗"
+
+- type: dropdown
+    id: location
+    attributes:
+      label: 選擇探險地點
+      description: 請選擇評價的遊戲地點
+      options:
+        - 第一集-超自然之殿
+        - 第二集-廢棄的醫院 試玩版
+        - ROOM
+    validations:
+      required: true
       
   - type: dropdown
     id: rating
