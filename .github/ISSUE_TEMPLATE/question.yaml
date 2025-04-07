@@ -1,0 +1,30 @@
+name: 🙋問題
+description: 遇到有問題?版權問題?遊戲的心理問題?還是其他問題?在此告訴我!
+title: "[問題]: "
+labels: ["問題"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: "### 樓上輸入您要的問題的主題,範例 [問題]: 圖片版權問題 "
+      
+  - type: dropdown
+    id: location
+    attributes:
+      label: 選擇探險地點
+      description: 請選擇相關的遊戲地點
+      options:
+        - 通用
+        - 第一集-超自然之殿
+        - 第二集-廢棄的醫院 試玩版
+        - ROOM
+    validations:
+      required: true
+      
+  - type: textarea
+    id: description
+    attributes:
+      label: 詳細說明(支持圖片拖曳到這裡)
+      placeholder: 請詳細描述你要說的問題
+    validations:
+      required: true
