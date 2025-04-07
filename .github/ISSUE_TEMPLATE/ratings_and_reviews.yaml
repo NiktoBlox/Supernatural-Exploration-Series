@@ -1,14 +1,18 @@
 name: ⭐評分和評論
 description: 評價您的遊玩體驗
-title: "[評分和評論]: "
-labels: ["評分和評論"]
+title: "[評價或評論]: "
+labels: ["評分和評論	"]
 assignees: []
 body:
+  - type: markdown
+    attributes:
+      value: "### Add a title 添加子標題：樓上輸入您要評論與評價的主題"
+      
   - type: dropdown
     id: rating
     attributes:
       label: 請選擇評分
-      description: 選擇一個星級來評價您的體驗
+      description: 請為您的遊玩體驗評分
       options:
         - ★★★★★ (5星)
         - ★★★★☆ (4星)
@@ -21,7 +25,7 @@ body:
   - type: textarea
     id: review
     attributes:
-      label: 您的評論或心得(支持圖片拖曳到這裡)
-      placeholder: 請分享您的遊戲體驗、印象深刻的部分...
+      label: 您的評論或心得
+      placeholder: 請分享您的遊戲體驗、建議或感受...
     validations:
-      required: true
+      required: false
