@@ -6,7 +6,7 @@ assignees: []
 body:
   - type: markdown
     attributes:
-      value: "### Add a title 添加子標題：樓上輸入您要評論與評價的主題"
+      value: "### 樓上輸入您要評分和評論的主題"
       
   - type: dropdown
     id: rating
@@ -25,7 +25,7 @@ body:
   - type: textarea
     id: review
     attributes:
-      label: 您的評論或心得
+      label: 您的評論或心得(可略)
       placeholder: 請分享您的遊戲體驗、建議或感受...
     validations:
       required: false
