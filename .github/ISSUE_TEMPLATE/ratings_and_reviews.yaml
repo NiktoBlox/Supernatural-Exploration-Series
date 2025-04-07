@@ -6,7 +6,7 @@ assignees: []
 body:
   - type: markdown
     attributes:
-      value: "### 樓上輸入您要評分和評論的主題"
+      value: "### 樓上輸入您要評分和評論的主題,範例 [評價或評論]: 好玩而且很好奇的體驗"
       
   - type: dropdown
     id: rating
