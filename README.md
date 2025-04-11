@@ -1,5 +1,5 @@
 # 歡迎來到《超自然探險》系列PPT！
-100% Microsoft PowerPoint 製作的恐怖探險遊戲,由[NiktoBlox]([https://linktr.ee/niktoblox](https://github.com/NiktoBlox))100%製作
+100% Microsoft PowerPoint 製作的恐怖探險遊戲,由 [NiktoBlox]([https://linktr.ee/niktoblox](https://github.com/NiktoBlox)) 100%製作
 
 超自然探險系列是一種類似密室逃脫線上遊戲,可畫面互動、解謎、線索等,但是主要是恐嚇,畢是這個遊戲就是現實中的靈異探險一樣玩法
 
